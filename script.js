@@ -34,19 +34,19 @@ $(document).ready(function(){
     });
 
     // typing text animation script
-    var typed = new Typed(".typing", {
-        strings: ["NAAC A++", "NBA", "NIRF 101-150", "UGC Autonomous"],
+    /*var typed = new Typed(".typing", {
+        strings: [" ", " ", " ", " "],
         typeSpeed: 100,
         backSpeed: 75,
         loop: true
-    });
+    });*/
 
-    var typed = new Typed(".typing-2", {
+    /*var typed = new Typed(".typing-2", {
         strings: ["Designer", "Full Stack Developer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 75,
         loop: true
-    });
+    });*/
 
     // owl carousel script
     $('.carousel').owlCarousel({
